@@ -12,7 +12,7 @@ Vanilla.js + TMDB API를 사용한 영화 소개 및 검색 사이트입니다. 
 |   <p align="center"><img src="https://github.com/MyNameSieun/Cin-Search/assets/103973797/f90602f0-ab51-41cb-94b8-6891ca7ab1ad" style="width:30%" /></p>     |            <p align="center"><img src="https://github.com/MyNameSieun/Cin-Search/assets/103973797/8952f704-b108-47a1-9b01-bb3f1e5ff823" style="width:40%" /></p> |                    <p align="center"><img src="https://github.com/MyNameSieun/Cin-Search/assets/103973797/c70c55db-5969-46d0-bdec-66a93cd281d3" style="width:30%" /></p>                      |                   <p align="center"><img src="https://github.com/MyNameSieun/Cin-Search/assets/103973797/632ed23f-1a9f-4d40-b0a2-21661735b2e0" style="width:45%" /></p>                        |       
 |       [@MyNameSieun](https://github.com/MyNameSieun) |              [@jigico](https://github.com/jigico)         |           [@seopport](https://github.com/seopport)                 |                  [@we-are-good](https://github.com/we-are-good/javascript_indivisual)          |       
 |                         팀장                          |                          팀원                         |                           팀원                           |                        팀원                         |   
-|                         Frontend                          |                       Frontend                         |              Frontend                        |                        Frontend                        |  
+|                        발표, PPT<br>메인페이지 <br> TMDb API 가져오기     | 리뷰 작성 후 STORAGE 저장 <br> 리뷰 삭제 (비밀번호 확인 모달)     |   상세정보 포스터 <br> 저장된 댓글 추가 <br>예고편|    상세정보 <br> TAP 기능   |  
    
 
 <br>
